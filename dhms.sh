@@ -59,5 +59,5 @@ dhms()
   fi
 )
 
-dhms $*
+#dhms $*
 
