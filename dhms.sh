@@ -36,7 +36,7 @@ dhms()
     [ "$S" -eq "1" ] && S_TAG="second" || S_TAG="seconds"
     [ "$H" -gt "0" ] && printf "%d %s " $H "${H_TAG},"
     [ "$M" -ge "1" ] && printf "%d %s " $M "${M_TAG} and"
-    printf "%d %s\n" $S "${S_TAG}"
+    printf "%d %s" $S "${S_TAG}"
   elif [ "$2" == "distinct" ]; then
     # Display "4d01h" format
     [ "$D" -gt "0" ] && printf "%01d%s" $D "d"
@@ -46,7 +46,6 @@ dhms()
     [ "$H" -gt "0" ] && printf "%02d%s" $H "h"
     [ "$M" -gt "0" ] && [ "$D" -lt "1" ] && printf "%02d%s" $M "m"
     [ "$S" -gt "0" ] && [ "$D" -lt "1" ] && printf "%02d%s" $S "s"
-    printf "\n"
   else
     # Display "4d01h" format
     [ "$D" -gt "0" ] && printf "%01d%s" $D "d"
@@ -55,7 +54,7 @@ dhms()
     # Display "01h02m03s" format
     [ "$H" -gt "0" ] && printf "%02d%s" $H "h"
     [ "$M" -gt "0" ] && printf "%02d%s" $M "m"
-    printf "%02d%s\n" $S "s"
+    printf "%02d%s" $S "s"
   fi
 )
 

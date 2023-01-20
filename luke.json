@@ -1,0 +1,657 @@
+{
+  "feed": {
+    "@xmlns:yt": "http://www.youtube.com/xml/schemas/2015",
+    "@xmlns:media": "http://search.yahoo.com/mrss/",
+    "@xmlns": "http://www.w3.org/2005/Atom",
+    "link": [
+      {
+        "@rel": "self",
+        "@href": "http://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA"
+      },
+      {
+        "@rel": "alternate",
+        "@href": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+      }
+    ],
+    "id": "yt:channel:UC2eYFnH61tmytImy1mTYvhA",
+    "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+    "title": "Luke Smith",
+    "author": {
+      "name": "Luke Smith",
+      "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+    },
+    "published": "2012-11-12T21:35:19+00:00",
+    "entry": [
+      {
+        "id": "yt:video:T8Vavo5VepI",
+        "yt:videoId": "T8Vavo5VepI",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Make-Fun-of-Millennials Saturday Stream",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=T8Vavo5VepI"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-17T00:36:58+00:00",
+        "updated": "2022-08-19T15:51:25+00:00",
+        "media:group": {
+          "media:title": "Make-Fun-of-Millennials Saturday Stream",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/T8Vavo5VepI?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/T8Vavo5VepI/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "I'll read donations: https://donate.lukesmith.xyz\nOr superchat with Monero: https://xmr.lukesmith.xyz",
+          "media:community": {
+            "media:starRating": {
+              "@count": "806",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "29856"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:QTolhoxMyXg",
+        "yt:videoId": "QTolhoxMyXg",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Simple Hugo Shortcodes absolutely MOG pathetic obese Wordpress!",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=QTolhoxMyXg"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-16T17:43:14+00:00",
+        "updated": "2022-08-19T15:54:03+00:00",
+        "media:group": {
+          "media:title": "Simple Hugo Shortcodes absolutely MOG pathetic obese Wordpress!",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/QTolhoxMyXg?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/QTolhoxMyXg/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "We cover Hugo shortcodes and the basics of using them and Hugo commands to create scriptable sections of your site. We cover range for for-loops, site variables and page variables, including titles, summaries, date formatting, word count, reading time, tags and much more.\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qd20r7phdct3t0e0z6jqs55ulectg25pngt7hyl\nXMR: 89yML3AtqnTNdo3wNuoaW44D94Zx1kBZNSBc9SyNxGdaKEZwZNdVzvy9zpbzJMzysiWZEU3b5LwjQ3XwWuQsknCF8JK73yv\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "508",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "14720"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:QF2wfLDI7-4",
+        "yt:videoId": "QF2wfLDI7-4",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Luke Smith Interviewed by Crypto Vigilante at Monerotopia 2022",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=QF2wfLDI7-4"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-13T03:00:08+00:00",
+        "updated": "2022-07-19T20:16:30+00:00",
+        "media:group": {
+          "media:title": "Luke Smith Interviewed by Crypto Vigilante at Monerotopia 2022",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/QF2wfLDI7-4?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/QF2wfLDI7-4/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "My first ever appearance in HiDef video.\n\n00:00 Intro\n00:25 Unix Philosophy\n03:18 The Difficulty of Using Bitcoin Properly\n09:05 Improving Bitcoin or Monero?\n11:10 Zcash and Pirate Chain\n13:26 Free and Open Source Software\n20:36 \"You will have no files and you will be happy.\"\n21:45 Is free software hard? :'(\n29:27 How to install GNU/Linux\n31:31 Monero's Problems and Zero-knowledge\n32:31 How to Attack Monero\n37:30 Blockchain Size\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "714",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "17734"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:ZFL09qhKi5I",
+        "yt:videoId": "ZFL09qhKi5I",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Hugo Actually Explained (Websites, Themes, Layouts, and Intro to Scripting)",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=ZFL09qhKi5I"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-12T13:15:19+00:00",
+        "updated": "2022-07-13T22:06:19+00:00",
+        "media:group": {
+          "media:title": "Hugo Actually Explained (Websites, Themes, Layouts, and Intro to Scripting)",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/ZFL09qhKi5I?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/ZFL09qhKi5I/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Hugo will allow you to create optimal website, but we shall overcome the \"Hugo Hump\" in this video. You gotta understand how templates and themes were before you get into the really impactful stuff.\n\nI still do explain partials, shortcodes and other more scriptable things here, but the main goal is getting you to understand how a Hugo site is configured and arranged.\n\nLink to the repository we use here:\nhttps://github.com/LukeSmithxyz/lugo\n\n00:00 Introduction\n00:55 How to Install Hugo and on Themes\n02:13 Getting Started\n04:29 The Directory Structure of a Hugo Site\n06:27 The hugo server command\n08:20 Making new Pages\n10:23 Notice the Tags\n12:36 Directories and the template in archetypes/\n14:40 Subdirectories in content\n16:28 Linking and images in Hugo\n18:47 Customizing Indexes (Interjection from the Future)\n20:43 Looking at Layouts\n20:02 Lists vs Singlefiles\n24:48 First look at Hugo Scriptability\n27:40 The RSS template\n28:27 Homepages/indexes without lists of articles\n29:43 Hugo's Scriptability and Partials\n34:33 \"I Can't Believe It's Not a Dynamic Site!\"\n35:22 Shortcodes (Example on Images)\n38:43 Hugo Review\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1134",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "25786"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:gyuq8U_WYDM",
+        "yt:videoId": "gyuq8U_WYDM",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Leisurely Saturday Stream",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=gyuq8U_WYDM"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-09T18:25:43+00:00",
+        "updated": "2022-08-19T15:49:00+00:00",
+        "media:group": {
+          "media:title": "Leisurely Saturday Stream",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/gyuq8U_WYDM?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i4.ytimg.com/vi/gyuq8U_WYDM/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "I'll read donations: https://donate.lukesmith.xyz\nOr superchat with Monero: https://xmr.lukesmith.xyz",
+          "media:community": {
+            "media:starRating": {
+              "@count": "517",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "16293"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:3o3uUOkcGqA",
+        "yt:videoId": "3o3uUOkcGqA",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "I AM A SOVEREIGN PROGRAMMER!",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=3o3uUOkcGqA"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-03T18:31:00+00:00",
+        "updated": "2022-07-06T16:32:11+00:00",
+        "media:group": {
+          "media:title": "I AM A SOVEREIGN PROGRAMMER!",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/3o3uUOkcGqA?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i4.ytimg.com/vi/3o3uUOkcGqA/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Some more on the false idol of the \"good tech job.\"\nA follow-up to: https://www.youtube.com/watch?v=EJeR1pJKP6E\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "2235",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "42376"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:gDRuRpdKRgw",
+        "yt:videoId": "gDRuRpdKRgw",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Please Consider Becoming Landed Gentry.",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=gDRuRpdKRgw"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-02T18:14:45+00:00",
+        "updated": "2022-07-06T17:08:00+00:00",
+        "media:group": {
+          "media:title": "Please Consider Becoming Landed Gentry.",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/gDRuRpdKRgw?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i4.ytimg.com/vi/gDRuRpdKRgw/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "Owning property isn't just about yourself. It's about providing a place over generations for the support of your family. It is easiest to do this starting on cheap country land. Don't sweat property taxes and other things, those complaints are more sour grapes of peasants.\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1922",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "30443"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:HmFeylVSsI4",
+        "yt:videoId": "HmFeylVSsI4",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "AH JEEZ I LOST MY SHOE AND IT'S GITHUB'S FAULT (don't even watch)",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=HmFeylVSsI4"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-02T02:56:39+00:00",
+        "updated": "2022-07-02T11:53:41+00:00",
+        "media:group": {
+          "media:title": "AH JEEZ I LOST MY SHOE AND IT'S GITHUB'S FAULT (don't even watch)",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/HmFeylVSsI4?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i1.ytimg.com/vi/HmFeylVSsI4/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "The github challenge is over.\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1138",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "18444"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:jAXKSKb3etk",
+        "yt:videoId": "jAXKSKb3etk",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Based Cooking now using HUGO!",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=jAXKSKb3etk"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-07-01T12:00:25+00:00",
+        "updated": "2022-07-01T21:40:55+00:00",
+        "media:group": {
+          "media:title": "Based Cooking now using HUGO!",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/jAXKSKb3etk?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/jAXKSKb3etk/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "(NOTE: I released this video on my PeerTube instance (https://videos.lukesmith.xyz) a while ago and realized I forgot to upload it to YouTube, so here it is, and still relevant).\n\nAfter some annoyances, I decided to make my life easier by switching Based.Cooking over to using Hugo, a static site generator written in Go which has tagging abilities and other niceties. Not only has it made the site easier to maintain, but I've added some other perks like a simple Javascript list filter and I've enjoyed Hugo so much I switched by personal website (https://lukesmith.xyz) over to it as well.\n\nIf you want to contribute a recipe, or improve a preexisting one, including adding an image, you can do it at the Github repository for the site: https://github.com/lukesmithxyz/based.cooking\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1202",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "19466"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:EJeR1pJKP6E",
+        "yt:videoId": "EJeR1pJKP6E",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "\"How Do I Get a Good Tech Job?\"",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=EJeR1pJKP6E"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-06-29T16:00:08+00:00",
+        "updated": "2022-06-30T08:36:09+00:00",
+        "media:group": {
+          "media:title": "\"How Do I Get a Good Tech Job?\"",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/EJeR1pJKP6E?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/EJeR1pJKP6E/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "I answer this question within 1 second of video playtime.\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "2705",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "36126"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:6YrKG4OGsE8",
+        "yt:videoId": "6YrKG4OGsE8",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "I SOLVE ALL ISSUES (and PRs) IN ONE WEEK! (git on my level)",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=6YrKG4OGsE8"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-06-27T16:30:01+00:00",
+        "updated": "2022-08-19T15:46:12+00:00",
+        "media:group": {
+          "media:title": "I SOLVE ALL ISSUES (and PRs) IN ONE WEEK! (git on my level)",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/6YrKG4OGsE8?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/6YrKG4OGsE8/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "00:00 Solving ALL Issues and PRs\n03:33 LARBS and my dotfiles (https://larbs.xyz and https://github.com/lukesmithxyz/voidrice)\n08:05 LandChad.net and Based.Cooking\n12:26 Suckless Software: dwm, st, dmenu, dwmblocks\n15:17 mutt-wizard (https://github.com/lukesmithxyz/mutt-wizard)\n18:03 emailwiz (https://github.com/lukesmithxyz/emailwiz)\n20:00 shadowchat and go-webring (other people's go software)\n20:27 Command-line Bibles: kjv, vul, grb\n24:15 vimling\n24:25 lib, R.I.P.\n26:16 Closing\n\nMy Github with all projects: https://github.com/lukesmithxyz\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "919",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "21384"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:YxPzaCnAD5Y",
+        "yt:videoId": "YxPzaCnAD5Y",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Linuxfest was dope and you're lame if you didn't come.",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=YxPzaCnAD5Y"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-06-25T14:18:18+00:00",
+        "updated": "2022-06-26T06:56:14+00:00",
+        "media:group": {
+          "media:title": "Linuxfest was dope and you're lame if you didn't come.",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/YxPzaCnAD5Y?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/YxPzaCnAD5Y/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "We skipped all the talks, went to fancy restaurants, play libre GNU/Linux video games and went to an Orthodox Church. You don't even need to watch the video because the title says it all.\n\nI will be back at Linuxfest Southeast in 2023.\n\nYes, I am reusing an old thumbnail. If you want new thumbnails go to my Mental Outlaw channel.\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "884",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "15735"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:jVy0K-0HMCg",
+        "yt:videoId": "jVy0K-0HMCg",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "SHOCKING Revelations Livestream",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=jVy0K-0HMCg"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-06-10T02:41:18+00:00",
+        "updated": "2022-06-13T03:46:39+00:00",
+        "media:group": {
+          "media:title": "SHOCKING Revelations Livestream",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/jVy0K-0HMCg?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/jVy0K-0HMCg/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "I'll read donations: https://donate.lukesmith.xyz\nOr superchat with Monero: https://xmr.lukesmith.xyz",
+          "media:community": {
+            "media:starRating": {
+              "@count": "1166",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "33886"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:N3Qlqv2vm0g",
+        "yt:videoId": "N3Qlqv2vm0g",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Background and Direction of Our Cyberpunk Dystopia",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=N3Qlqv2vm0g"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-06-01T19:30:01+00:00",
+        "updated": "2022-06-07T18:35:21+00:00",
+        "media:group": {
+          "media:title": "Background and Direction of Our Cyberpunk Dystopia",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/N3Qlqv2vm0g?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i3.ytimg.com/vi/N3Qlqv2vm0g/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "This is a re-presentation of the talk that I did at Monerotopia. The native recording (which you can see here: https://www.youtube.com/watch?v=AVpeZMLaliE) was suboptimal in quality and part of it was missing, so I'm going through the whole thing with EXTENDED HECKIN' COMMENTARY here.\n\nThis was released first on my personal video site. See it here:\nhttps://videos.lukesmith.xyz\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "2376",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "55738"
+            }
+          }
+        }
+      },
+      {
+        "id": "yt:video:AFbIIccVaAw",
+        "yt:videoId": "AFbIIccVaAw",
+        "yt:channelId": "UC2eYFnH61tmytImy1mTYvhA",
+        "title": "Superchats with Monero (Shadowchat)",
+        "link": {
+          "@rel": "alternate",
+          "@href": "https://www.youtube.com/watch?v=AFbIIccVaAw"
+        },
+        "author": {
+          "name": "Luke Smith",
+          "uri": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+        },
+        "published": "2022-06-01T18:30:09+00:00",
+        "updated": "2022-06-03T13:00:21+00:00",
+        "media:group": {
+          "media:title": "Superchats with Monero (Shadowchat)",
+          "media:content": {
+            "@url": "https://www.youtube.com/v/AFbIIccVaAw?version=3",
+            "@type": "application/x-shockwave-flash",
+            "@width": "640",
+            "@height": "390"
+          },
+          "media:thumbnail": {
+            "@url": "https://i2.ytimg.com/vi/AFbIIccVaAw/hqdefault.jpg",
+            "@width": "480",
+            "@height": "360"
+          },
+          "media:description": "I've been using shadowchat (https://github.com/lukesmithxyz/shadowchat) for a while to receive donations with messages (superchats) with Monero. It's just a simple program written in Go and doesn't need anything else too fancy to work.\n\nIt also works with OBS and shows notifications and sends notification emails if you want that as well.\n\nMy website: https://lukesmith.xyz\nClassical books reprinted by me: https://lindypress.net\nGet all my videos off YouTube: https://videos.lukesmith.xyz\nor Odysee: https://odysee.com/$/invite/@Luke:7\n\nPlease donate: https://donate.lukesmith.xyz\nBTC: bc1qw5w6pxsk3aj324tmqrhhpmpfprxcfxe6qhetuv\nXMR: 48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh\n\nOR affiliate links to things l use:\nhttps://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.\nhttps://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.",
+          "media:community": {
+            "media:starRating": {
+              "@count": "399",
+              "@average": "5.00",
+              "@min": "1",
+              "@max": "5"
+            },
+            "media:statistics": {
+              "@views": "8925"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

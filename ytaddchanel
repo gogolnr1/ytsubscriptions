@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+cp subscriptions.json subscriptions.json.tmp &&
+jq --arg c_id "$1" \
+  '.channels += [{"name":"","id":$c_id,"disabled":false}]' \
+  subscriptions.json.tmp >subscriptions.json && rm subscriptions.json.tmp
